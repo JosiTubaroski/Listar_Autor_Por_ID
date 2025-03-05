@@ -7,3 +7,5 @@
 # Listar Autor Por ID
 
 Incluir o Método no AutorService.cs
+
+<img src="https://github.com/JosiTubaroski/Listar_Autor_Por_ID/blob/main/img/AutorService_BuscarID.png"/>
