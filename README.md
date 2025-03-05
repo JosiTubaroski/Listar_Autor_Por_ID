@@ -28,7 +28,7 @@ O código define um método assíncrono em C# chamado BuscarAutorPorId, que busc
 3. Se não encontrar → Retorna uma mensagem informando que não há registros.
 4. Se der erro → Captura a exceção e retorna a mensagem de erro.
 
-### Incluir o metodo buscar por iD no AutorControler.cs.
+### Incluir o metodo buscar por iD no AutorControler.cs
 
 <img src="https://github.com/JosiTubaroski/Listar_Autor_Por_ID/blob/main/img/02_AutorController_BuscarId.png"/>
 
