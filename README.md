@@ -32,4 +32,14 @@ O código define um método assíncrono em C# chamado BuscarAutorPorId, que busc
 
 <img src="https://github.com/JosiTubaroski/Listar_Autor_Por_ID/blob/main/img/02_AutorController_BuscarId.png"/>
 
+#### Executar o projeto e verificar o método
+
+<img src="https://github.com/JosiTubaroski/Listar_Autor_Por_ID/blob/main/img/03_Testar_Metodo_BuscarIdAutor.png"/>
+
+<img src="https://github.com/JosiTubaroski/Listar_Autor_Por_ID/blob/main/img/04_BuscarId_2.png"/>
+
+<img src="https://github.com/JosiTubaroski/Listar_Autor_Por_ID/blob/main/img/04_Testar_Metodo_3.png"/>
+
+
+
 
